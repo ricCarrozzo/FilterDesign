@@ -2,5 +2,5 @@
 
 Scratchpad container for some filter design scripts
 
-dedicated to L-Optimum Lagrange-Papoulis filters
+dedicated to Lagrange-Papoulis "Optimum-L" filters
 
